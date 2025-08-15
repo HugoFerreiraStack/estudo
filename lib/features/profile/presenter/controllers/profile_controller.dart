@@ -10,6 +10,8 @@ class ProfileController extends GetxController {
   final TextEditingController nameController = TextEditingController();
   final TextEditingController emailController = TextEditingController();
 
+  final teste = '';
+
   
 
 }
